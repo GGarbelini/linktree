@@ -38,10 +38,9 @@ h1 {
 
 .title {
     font-size: 22px;
-    display: flex;
-    justify-content: right;
-    margin: 0 12px 60px 0;
-    color: #790a9a;
+    display: block;    
+    margin: auto;
+    color: #900eb8;
     
 }
 
